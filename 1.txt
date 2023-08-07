@@ -1,0 +1,9 @@
+http://localhost/FINAL/captura.php?collection_id=1314223214&collection_status=approved&
+
+
+payment_id=1314223214&
+status=approved&
+external_reference=null&
+payment_type=credit_card&
+merchant_order_id=10922133450&
+preference_id=1442593803-0afb6144-5d5a-4a4e-976c-49157d9d4b63&site_id=MPE&processing_mode=aggregator&merchant_account_id=null
